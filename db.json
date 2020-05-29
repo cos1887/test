@@ -1,5 +1,4 @@
 {
-    "title": "Roky Pay Form",
     "form": [{
             "type": "string",
             "label": "Nombre",
