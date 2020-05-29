@@ -1,0 +1,30 @@
+{
+"form": [
+{
+"type": "string",
+"label": "Nombre",
+"key": "name",
+"value": "Juana",
+"mandatory": true,
+"minLen": 3,
+"maxLen": 10,
+"regex": ""
+},
+{
+"type": "number",
+"label": "Edad",
+"key": "age",
+"value": 29,
+"mandatory": true,
+"minLen": 1,
+"maxLen": 3,
+"regex": "/s[0-1]{1}[0-9]{0,2}/"
+},
+{
+"type": "bolean",
+"label": "Accepetar contratao",
+"key": "legalTerms",
+"mandatory": true
+}
+]
+}
